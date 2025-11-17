@@ -34,7 +34,7 @@ O processo seguiu um fluxo de **Criação de Prompt > Refinamento > Seleção**:
 
 Abaixo está o resultado final do projeto. A imagem convence? É "Natty" (Natural) ou "Fake Natty" (IA)?
 
-![Imagem do Projeto](![imagem_futurista](https://github.com/user-attachments/assets/cd9c3eea-48e4-45b7-9113-cfd353906286)
+![Imagem do Projeto](![imagem_futurista](https://github.com/user-attachments/assets/996da425-a66c-4420-a28c-aa2014887d1e)
 )
 *(Nota: Não esqueça de fazer o upload da sua imagem para uma pasta 'assets' no seu github e alterar o link acima)*
 
