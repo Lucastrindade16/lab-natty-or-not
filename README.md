@@ -4,7 +4,7 @@
 
 > O projeto "Natural ou Fake Natty" é um desafio da DIO para explorar o potencial das IAs Generativas.
 
-Neste laboratório, explorei como as IAs podem criar conteúdos realistas que confundem a barreira entre o digital e o físico. O objetivo foi criar [Descreva brevemente seu projeto, ex: o conceito visual de um gadget futurista].
+Neste laboratório, explorei como as IAs podem criar conteúdos realistas que confundem a barreira entre o digital e o físico. O objetivo foi criar um conceito visual de um gadget futurista].
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu?
 
@@ -12,7 +12,7 @@ O desafio consiste em criar conteúdos utilizando ferramentas de IA e documentar
 
 ## 📒 Descrição do Projeto
 
-A ideia foi criar [Descreva a ideia, ex: um smartwatch biônico que faz fotossíntese]. Busquei um visual [ex: cyberpunk/orgânico] e uma descrição técnica que parecesse plausível, mas totalmente inovadora.
+A ideia foi criar um tipo de expectativa futura no mundo. Busquei um visual mais proximo ao cyberpunk e uma descrição técnica que parecesse plausível, mas totalmente inovadora.
 
 ## 🤖 Tecnologias Utilizadas
 
