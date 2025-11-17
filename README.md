@@ -1,4 +1,4 @@
-![imagem_futurista](https://github.com/user-attachments/assets/996da425-a66c-4420-a28c-aa2014887d1e)# Natural ou Fake Natty? Como a IA Criou o A Nova Era Digital 🌌
+# Natural ou Fake Natty? Como a IA Criou o A Nova Era Digital 🌌
 
 ## 🚀 Introdução
 
@@ -34,8 +34,7 @@ O processo seguiu um fluxo de **Criação de Prompt > Refinamento > Seleção**:
 
 Abaixo está o resultado final do projeto. A imagem convence? É "Natty" (Natural) ou "Fake Natty" (IA)?
 
-![Imagem do Projeto](![imagem_futurista](https://github.com/user-attachments/assets/996da425-a66c-4420-a28c-aa2014887d1e)
-)
+![imagem_futurista](https://github.com/user-attachments/assets/996da425-a66c-4420-a28c-aa2014887d1e)
 *(Nota: Não esqueça de fazer o upload da sua imagem para uma pasta 'assets' no seu github e alterar o link acima)*
 
 **Descrição Gerada pelo ChatGPT:**
