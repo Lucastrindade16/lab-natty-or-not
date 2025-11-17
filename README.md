@@ -18,7 +18,7 @@ A ideia foi criar [Descreva a ideia, ex: um smartwatch biônico que faz fotossí
 
 Para alcançar o resultado "Fake Natty", utilizei as seguintes ferramentas:
 
-* **[Nome da IA de Texto, ex: ChatGPT / Gemini]**: Para roteirização, criação do nome do produto e descrição técnica.
+* - IA Generativa **[ChatGPT](https://chat.openai.com)** Para roteirização, criação do nome do produto e descrição técnica.
 * **[Nome da IA de Imagem, ex: Leonardo AI / Midjourney / Bing Image Creator]**: Para geração da imagem visual hyper-realista.
 * **[Opcional - IA de Edição, ex: Canva / Photoshop]**: Para ajustes finais de contraste e layout.
 
